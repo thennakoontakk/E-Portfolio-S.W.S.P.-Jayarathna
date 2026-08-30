@@ -1,9 +1,9 @@
-# E-Portfolio - G.W.S.P. Jayarathna
+# E-Portfolio - S.W.S.P. Jayarathna
 
 ගුරු අධ්‍යාපන විද්‍යුත් කළඹ (Teacher E-Portfolio)
 
 ## 📌 Personal Details
-- **Name**: G.W.S.P. Jayarathna
+- **Name**: S.W.S.P. Jayarathna
 - **Course / Subject**: Music (සංගීතය)
 - **School**: Ku / Sri Medhankara Vidyalaya (කු/ ශ්‍රී මේධංකර විද්‍යාලය)
 - **Register Number**: BS22SE0187
